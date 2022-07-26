@@ -17,6 +17,10 @@ The application uses local storage to preserve the previous record even though t
 - 3rd party library (leaflet)
 - local storage
 
+### Live demo link
+
+[https://mapty-hyeyoung.netlify.app/](https://mapty-hyeyoung.netlify.app/)
+
 ### Logic flowchart
 
 ![App Screenshot](https://github.com/hykim-soulis/Mapty/blob/master/Mapty-flowchart.png?raw=true)
