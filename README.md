@@ -14,7 +14,7 @@ The application uses local storage to preserve the previous record even though t
 
 - object oriented programming
 - geolocation api
-- 3rd party libraries (leaflet)
+- 3rd party library (leaflet)
 - local storage
 
 ### Logic flowchart
