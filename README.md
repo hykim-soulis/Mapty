@@ -1,14 +1,14 @@
 # Mapty
 
-The goal of this application is to log the running and cycling workout's location, duration and distance information with popup pins on the map for users.
+The goal of this application is to log the location, duration and distance information for running and cycling workouts with popup pins on the map.
 
 ## Project Description
 
 This application helps users to log their workout records on the map.
 
-The application automatically obtains user's current location coordinates using geolocation api when the user first load and displays the location on the right side. When the user clicks the workout location on the map, an input form appears on the left side.
-Fills out the form and preeses enter, user can see the popup pin on the map with the workout information.
-The application uses local storage to preserve the previous records even though the user reload the app.
+The application automatically obtains the user's current location coordinates using a geolocation api when the user first loads the application and displays the location in the right view. When the user clicks the workout location on the map, an input form appears on the left side.
+When the form is filled out and the user presses 'enter', we can see the popup pin on the map with the workout information.
+The application uses local storage to persist the previous records even when the user reloads the app.
 
 ### What I've learned
 
@@ -43,7 +43,7 @@ The application uses local storage to preserve the previous records even though 
 
 ## Resource
 
-This project is a css and javascript coding-along with the Udemy The Complete JavaScript Course 2022 by instructor Jonas Schmedtmann. HTML and part of CSS files were provided by the instructor.
+This project is a css and javascript project done with the Udemy course: The Complete JavaScript Course 2022 by instructor Jonas Schmedtmann. HTML and part of CSS files were provided by the instructor.
 
 The below link is the instructor's github address.
 
